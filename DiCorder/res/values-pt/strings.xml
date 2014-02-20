@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiCorder</string>
+    <string name="search">Procurar Contactos</string>
+    <string name="catalog_search">Procurar Informação</string>
+    <string name="list">Lista de Contactos</string>
+    <string name="contacts">Contactos</string>
+    <string name="map">Mapa</string>
+    <string name="catalog">Catálogo</string>
+    <string name="multimedia">Multimédia</string>
+    <string name="camera">Câmera</string>
+    <string name="laser">Laser</string>
+    <string name="call">Telefonar</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dialing">Chamando</string>
+    <string name="distance">Distancia</string>
+    <string name="delete">Apagar</string>
+    <string name="call_help">Carregue no ícon de telefone para desligar a chamada</string>
+    <string name="pictures">Imagens</string>
+    <string name="video">Vídeos</string>
+    <string name="audio">Sons</string>
+    <string name="thickness">Espessura (mm)</string>
+    <string name="length">Comprimento (mm)</string>
+    <string name="on">Ligado</string>
+    <string name="off">Desligado</string>
+    <string name="confirm_laser">PERIGO \nTem a certeza que quer LIGAR o Laser?</string>
+    <string name="turn_on">Ligar</string>
+    <string name="turn_off">Desligar</string>
+    <string name="laser_on">O Laser está LIGADO</string>
+    <string name="laser_off">O Laser está DESLIGADO</string>
+    <string name="add_registry">Adicionar registo</string>
+    <string name="map_settings">Configurações do Mapa</string>
+    <string name="contact_search_help">Selecione o raio máximo que deseja que o seu dispositivo procure por outros dispositivos</string>
+    <string name="home_menu">Menu Principal</string>
+    <string name="take_photo">Tirar Foto</string>
+    <string name="switch_photo">Mudar Foto</string>
+    <string name="camera_help">Carregue em Tirar Foto para tirar uma fotografia</string>
+    <string name="retake_photo">Tirar Foto</string>
+    <string name="identify">Identificar</string>
+    <string name="photo_options_help">Carregue em Tirar Foto para tirar uma fotografia outra vez.\nCarregue em Identificar para identificar o que acabou de tirar uma fotografia.\nCarregue em gravar para gravar esta fotografia na galeria Multimédia.</string>
+    <string name="done">Concluir</string>
+    <string name="corundum">Corindon</string>
+    <string name="frog">Sapo Flecha Venenosa</string>
+    <string-array name="contacts_array">
+        <item>Daniel Cardoso</item>
+        <item>Francisco Raposo</item>
+        <item>Miguel Aragão</item>
+        <item>Carlos</item>
+    </string-array>
+    <string name="distance_prompt">Raio</string>
+    <string-array name="distance_array">
+        <item>100 m</item>
+        <item>500 m</item>
+        <item>1 Km</item>
+        <item>5 Km</item>
+        <item>20 Km</item>
+    </string-array>
+    <string name="laser_help">Carregue nos botões +1/-1 para incrementar/decrementar o valor por 1\nCarregue nos botões +10/-10 para incrementar/decrementar o valor por 10</string>
+    <string name="corundum_info">Ponto de fusão - 2044 °C.\nÉ um dos materiais naturalmente transparentes, mas pode ter diferentes cores quando tem impurezas. Os que são transparentes são chamados rubi se vermelhos e padparadscha se cor-de-rosa/cor-de-laranja, enquanto que todas as outras cores são safiras.\nCorindon são encontrados em terrenos metamórficos.</string>
+	<string name="frog_info">Estes amfíbios são também chamados de "sapos dardo" devido ao uso das suas secreções tóxicas pelos Ameríndios para envenenar os seus dardos.\nTamanho: 1 cm -5 cm\nPeso: 2 g\nA maioria destes sapos têm cores brilhantes para avisar potenciais predadores. A sua cor brilhantes está associada à sua toxicidade. Existem químicos extraídos da pele destas criaturas com valor medicinal. Um deles é um analgésico 200 vezes mais potente que a morfina. Além disso as suas secreções também parecem mostrar resultados como relaxantes musculares e estimulantes cardíacos para além de também diminuírem o apetite. O mais venenoso destes amfíbios é o Sapo Venenoso Dourado (Phyllobates terribilis), tem veneno para matar 10 a 20 homens ou à volta de 10 mil ratos.</string>
+	<string name="info_help">Carregue no botão físico Back para voltar atrás.\nCarregue no botão físico Menu para iniciar outra tarefa.</string>
+	<string name="more">Mais</string>
+	<string name="settings">Configurações</string>
+	<string name="map_help">Carregue em Configurações para escolher quais animais/plantas/minerais rastrear no mapa</string>
+	<string name="species">Espécie</string>
+	<string-array name="species_array">
+	    <item>Sapo Flecha Venenosa</item>
+	    <item>Corindon</item>
+	</string-array>
+	<string name="settings_help">Selecione o animal/planta/mineral que pretende rastrear no spinner e carregue Adicionar\nPara remover um rastreamento carregue no botão Remover correspondente\nCarregue em concluir para gravar as suas configurações</string>
+	<string name="name">Nome</string>
+	<string name="photo">Fotografia</string>
+	<string name="info">Informação</string>
+	<string name="record_clip">Gravar Vídeo</string>
+	<string-array name="audio_files">
+	    <item>Ficheiro Áudio 0</item>
+	    <item>Ficheiro Áudio 1</item>
+	    <item>Ficheiro Áudio 2</item>
+	    <item>Ficheiro Áudio 3</item>
+	    <item>Ficheiro Áudio 4</item>
+	    <item>Ficheiro Áudio 5</item>
+	    <item>Ficheiro Áudio 6</item>
+	</string-array>
+	<string name="search_2">Procurar</string>
+	<string name="view">Ver</string>
+	<string name="picture_options">Opções de Imagem</string>
+	<string name="video_options">Opções de Vídeo</string>
+	<string name="pictures_help">Selecione uma imagem para a ver ou carregue em Tirar Foto para tirar uma fotografia</string>
+	<string name="video_help">Selecione um vídeo para o ver ou carregue em Gravar Vídeo para gravar um vídeo</string>
+	<string name="audio_help">Selecione a ficheiro de áudio que pretende ouvir</string>
+	<string name="back">Voltar</string>
+	<string name="audio_options">Opções de Áudio</string>
+	<string name="listen">Ouvir</string>
+	<string name="search_help">Escreva o nome do registo que pretende encontrar e carregue em Procurar\nDe seguida carregue em Informação no registo que pretende devolvido pela procura</string>
+	<string name="add_registry_help">Escreva o nome, informação e seleccione uma imagem para o registo que pretende guardar</string>
+	<string name="add">Adicionar</string>
+	<string name="remove">Remover</string>
+	<string name="play">Reproduzir</string>
+</resources>

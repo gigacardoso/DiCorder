@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiCorder</string>
+    <string name="search">Find New Contacts</string>
+    <string name="catalog_search">Find Info</string>
+    <string name="list">Contacts List</string>
+    <string name="contacts">Contacts</string>
+    <string name="map">Map</string>
+    <string name="catalog">Catalog</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="camera">Camera</string>
+    <string name="laser">Laser</string>
+    <string name="call">Call</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialing">Dialing</string>
+    <string name="distance">Distance</string>
+    <string name="delete">Delete</string>
+    <string name="call_help">Press the hang up phone icon to finish the call</string>
+    <string name="pictures">Pictures</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+    <string name="thickness">Thickness (mm)</string>
+    <string name="length">Length (mm)</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="confirm_laser">DANGER \nAre you sure you want to turn ON the laser?</string>
+    <string name="turn_on">Turn On</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="laser_on">The Laser is ON</string>
+    <string name="laser_off">The Laser is OFF</string>
+    <string name="add_registry">Add Registry</string>
+    <string name="map_settings">Map Settings</string>
+    <string name="contact_search_help">Select the maximum radius you want the device to search for other devices</string>
+    <string name="home_menu">Home Menu</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="switch_photo">Switch Photo</string>
+    <string name="camera_help">Press the Take Photo Button to take a photo</string>
+    <string name="retake_photo">Retake Photo</string>
+    <string name="identify">Identify</string>
+    <string name="photo_options_help">Press the Retake Photo button to take a photo again.\nPress the Identify button to identify what you\'ve just took a picture of.\nPress the Save button to save this picture in the gallery.</string>
+    <string name="done">Done</string>
+    <string name="corundum">Corundum</string>
+    <string name="frog">Poison Arrow Frog</string>
+    <string-array name="contacts_array">
+        <item>Daniel Cardoso</item>
+        <item>Francisco Raposo</item>
+        <item>Miguel Aragão</item>
+        <item>Carlos</item>
+    </string-array>
+    <string name="distance_prompt">Radius</string>
+    <string-array name="distance_array">
+        <item>100 m</item>
+        <item>500 m</item>
+        <item>1 Km</item>
+        <item>5 Km</item>
+        <item>20 Km</item>
+    </string-array>
+    <string name="laser_help">Press buttons +1/-1 to increase/decrease the value by 1\nPress buttons +10/-10 to increase/decrease the value by 10</string>
+    <string name="corundum_info">Melting point - 2044 °C.\nIt is a rock-forming mineral. It is one of the naturally clear transparent materials, but can have different colors when impurities are present. Transparent specimens are used as gems, called ruby if red and padparadscha if a pink-orange, while all other colors are called sapphire.\nCorundum occurs as a mineral in mica schist, gneiss, and some marbles in Metamorphic terranes.</string>
+	<string name="frog_info">These amphibians are often called "dart frogs" due to the Amerindians\' indigenous use of their toxic secretions to poison the tips of blowdarts.\nSize: 1 cm -5 cm\nWeight: 2 g\nMost poison dart frogs are brightly colored to warn potential predators. Their bright coloration is associated with their toxicity and levels of alkaloids. Chemicals extracted from the skin of Epipedobates tricolor may be shown to have medicinal value. One such chemical is a painkiller 200 times as potent as morphine, called epibatidine. Secretions from dendrobatids are also showing promise as muscle relaxants, heart stimulants and appetite suppressants. The most poisonous of these frogs, the Golden Poison Frog (Phyllobates terribilis), has enough toxin on average to kill ten to twenty men or about ten thousand mice.</string>
+	<string name="info_help">Press the Back button to go back.\nPress the Menu button to launch any other task.</string>
+	<string name="more">More</string>
+	<string name="settings">Settings</string>
+	<string name="map_help">Press the Settings button to change which animals/plants/minerals to track</string>
+	<string name="species">Species</string>
+	<string-array name="species_array">
+	    <item>Poison Arrow Frog</item>
+	    <item>Corundum</item>
+	</string-array>
+	<string name="settings_help">Select the animal/plant/mineral you wish to track in the spinner and press Add\nTo remove a tracking press the corresponding Remove button\nPress Done to finish and save your settings</string>
+	<string name="name">Name</string>
+	<string name="photo">Photo</string>
+	<string name="info">Info</string>
+	<string name="record_clip">Record Clip</string>
+	<string-array name="audio_files">
+	    <item>Audio File 0</item>
+	    <item>Audio File 1</item>
+	    <item>Audio File 2</item>
+	    <item>Audio File 3</item>
+	    <item>Audio File 4</item>
+	    <item>Audio File 5</item>
+	    <item>Audio File 6</item>
+	</string-array>
+	<string name="search_2">Search</string>
+	<string name="view">View</string>
+	<string name="picture_options">Picture Options</string>
+	<string name="video_options">Video Options</string>
+	<string name="pictures_help">Select a picture to see it closer or press Take Photo button to take a photo</string>
+	<string name="video_help">Select a video to play it or press Record Clip button to record a clip</string>
+	<string name="audio_help">Select the audio file you want to hear it</string>
+	<string name="back">Back</string>
+	<string name="audio_options">Audio Options</string>
+	<string name="listen">Listen</string>
+	<string name="search_help">Type the name of the registry you want to find info about and press Search\nThen press Info on the registry you want to select</string>
+	<string name="add_registry_help">Type the name, info and select a picture of the registry you want to save</string>
+	<string name="add">Add</string>
+	<string name="remove">Remove</string>
+	<string name="play">Play</string>
+</resources>
